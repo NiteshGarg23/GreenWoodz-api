@@ -1,15 +1,15 @@
-## Create virtual environment
+# Create virtual environment
 python -m venv venv
 
-## Activate virtual environment
-# For windows
+# Activate virtual environment
+## For windows
 .\venv\Scripts\actiavte.bat
 
-# For ubuntu
+## For ubuntu
 source ./venv/bin/activate
 
-## Install requirements
+# Install requirements
 pip install -r requirements.txt
 
-## Run 
+# Run 
 flask run
