@@ -3,7 +3,7 @@ python -m venv venv
 
 # Activate virtual environment
 ## For windows
-.\venv\Scripts\actiavte.bat
+.\venv\Scripts\activate.bat
 
 ## For ubuntu
 source ./venv/bin/activate
